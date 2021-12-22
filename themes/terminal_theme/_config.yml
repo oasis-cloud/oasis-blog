@@ -1,0 +1,96 @@
+# html lang
+language: zh-Hans
+
+# main menu navigation
+menu:
+  Home: /
+  Tags: /tags
+  Categories: /categories
+  About: /about
+
+# customize your terminal panel
+terminal:
+  home:
+    - pwd:
+      cmd: ssh oasis@127.0.0.1
+      outputs:
+        - text: Welcome to oasis-cloud
+        - text: "xxx"
+
+  tags:
+
+  categories:
+
+  about:
+    - pwd:
+      cmd: whoami
+      outputs:
+        - text: oasis-cloud
+          ending: "@"
+        - type: url
+          url: https://github.com/oasis-cloud
+          text: GitHub
+    - pwd:
+      cmd: top
+      outputs:
+        - type: url
+          url: https://github.com/jdf2e/nutui-react
+          text: nutui-react
+    - pwd:
+      cmd: whereis me
+      outputs:
+        - text: "me: x"
+  #    - pwd:
+  #      cmd: man AUTHOR_NAME
+  #      outputs:
+  #        - text: "AUTHOR_NAME(1)"
+  #        - text: ""
+  #        - text: "NAME"
+  #        - text: "SELFINTRODUCTION - xxx"
+  #        - text: ""
+  #        - text: "DESCRIPTION"
+  #        - text: "Interests: xxx"
+  #        - text: "Email: xxx"
+  #        - text: "xxx"
+
+  post:
+
+  Links:
+    nutui: https://nutui.jd.com
+    nutui-react: https://github.com/jdf2e/nutui-react
+
+# disqus: disqus_name
+utterances: xxx/blog_comments
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+
+# social media
+# name: url
+social:
+# github: https://github.com/xxx
+
+# Miscelaneous
+favicon: /favicon.ico
+
+# stylesheets loaded in the <head>
+stylesheets:
+  - /css/index.css
+
+# scripts loaded in the end of the body
+scripts:
+  - /js/nav.js
+  - /js/scroll.js
+  - /js/index.js
+# the third-party loaded in the head
+third_party:
+  js:
+    jquery: /js/third-party/jquery.min.js
+    velocity: /js/third-party/velocity.min.js
+    velocity-ui: /js/third-party/velocity.ui.min.js
+  css:
+    # font-awsome: https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+    font-awsome: https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css
+
+
