@@ -4,8 +4,6 @@ language: zh-Hans
 # main menu navigation
 menu:
   Home: /
-  Tags: /tags
-  Categories: /categories
   About: /about
 
 # customize your terminal panel
@@ -15,11 +13,6 @@ terminal:
       cmd: ssh oasis@127.0.0.1
       outputs:
         - text: Welcome to oasis-cloud
-        - text: "xxx"
-
-  tags:
-
-  categories:
 
   about:
     - pwd:
@@ -40,18 +33,6 @@ terminal:
       cmd: whereis me
       outputs:
         - text: "me: x"
-  #    - pwd:
-  #      cmd: man AUTHOR_NAME
-  #      outputs:
-  #        - text: "AUTHOR_NAME(1)"
-  #        - text: ""
-  #        - text: "NAME"
-  #        - text: "SELFINTRODUCTION - xxx"
-  #        - text: ""
-  #        - text: "DESCRIPTION"
-  #        - text: "Interests: xxx"
-  #        - text: "Email: xxx"
-  #        - text: "xxx"
 
   post:
 
