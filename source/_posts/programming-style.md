@@ -1,5 +1,7 @@
 ---
 title: 编程格调
+categories: Programming
+tags: Programming
 ---
 
 ## 表达

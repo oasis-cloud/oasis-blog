@@ -4,6 +4,8 @@ language: zh-Hans
 # main menu navigation
 menu:
   Home: /
+  Tags: /tags
+  Categories: /categories
   About: /about
 
 # customize your terminal panel
