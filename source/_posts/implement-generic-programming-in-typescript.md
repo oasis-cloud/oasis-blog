@@ -1,7 +1,7 @@
 ---
 title: TypeScript 泛型编程
 categories: Programming
-tags: TS
+tags: [TypeScript]
 ---
 
 让我们从一个任务开始吧。根据 div 元素 data-idx 属性的值展示对应的文案。data-idx 的值从 -1 开始，由于我们使用了数组存放数据，所以我们在使用 data-idx 时给它加 1 ，示例如下：

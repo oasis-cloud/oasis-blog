@@ -1,6 +1,6 @@
 ---
 title: 醍醐灌顶
-tags: Others
+tags: [Others]
 ---
 
 - [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)

@@ -1,7 +1,7 @@
 ---
 title: Sass @use vs @import
 categories: Programming
-tags: CSS
+tags: [CSS, Sass]
 ---
 
 
