@@ -4,10 +4,11 @@ categories: TodoList
 tags: [todo]
 ---
 
-- [x] 阅读 nrm 源码
-- [x] 阅读 marquee 源码
-- [ ] 阅读 through2 源码
-- [ ] 阅读 https://github.com/microsoft/griffel
-- [ ] 学习 vite import.meta 的扩展方式
-- [ ] 学习 json5 组件库的实现方式
-- [ ] 学习 Swiper 的跨端构建模式，侧重 build 和 ESM
+- [x] nrm 源码——源的管理方式，npm 的源如何设置
+- [x] marquee 源码——React 中动效的处理
+- [x] through2 源码——流的管理
+- [ ] react-window-infinite-loader 源码——无限加载的优化方案、工程实践
+- [ ] https://github.com/microsoft/griffel——css in js 方案
+- [ ] vite import.meta 的扩展方式
+- [ ] json5 组件库的实现方式
+- [ ] Swiper 的跨端构建模式，侧重 build 和 ESM
