@@ -52,6 +52,8 @@ npmrc 文件控制`源`，npmrc 文件格式为 `ini`，npmrc 有四个存储位
 - 全局配置文件 ($PREFIX/etc/npmrc)
 - npm 内置配置文件 (/path/to/npm/npmrc)
 
+ini covert to json
+[https://www.site24x7.com/tools/ini-to-json.html](https://www.site24x7.com/tools/ini-to-json.html)
 
 
 
