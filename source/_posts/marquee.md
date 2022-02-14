@@ -1,5 +1,5 @@
 ---
-title: 自己动手实现 marquee
+title: 自己动手实现——marquee
 categories: Programming
 tags: [CSS, JavaScript, React]
 ---
