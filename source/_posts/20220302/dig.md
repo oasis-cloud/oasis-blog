@@ -163,3 +163,7 @@ DNS 破坏的一些方法
 © 朱莉娅·埃文斯。
 如果你喜欢这个，你可能会喜欢Ulia Ea，或者更严重的是，我喜欢的博客列表。
 你可能也喜欢Recurse Center，我最喜欢的编程社区（我的帖子）
+
+https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/
+
+https://www.cnblogs.com/sparkdev/p/7777871.html
